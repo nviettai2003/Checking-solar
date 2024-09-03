@@ -1,0 +1,11 @@
+.\objects\uart.o: UART.c
+.\objects\uart.o: UART.h
+.\objects\uart.o: G:\keilc\KeilC\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+.\objects\uart.o: .\RTE\_Target_1\RTE_Components.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\uart.o: G:\keilc\KeilC\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
+.\objects\uart.o: G:\keilc\KeilC\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
